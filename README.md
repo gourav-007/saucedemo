@@ -12,7 +12,6 @@ Allure,
 
 ### Steps to clone execute the tests
 ```
-git clone ?
-cd saucedemo
+git clone https://github.com/gourav-007/saucedemo
 mvn clean test
 ```
